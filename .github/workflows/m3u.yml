@@ -3,7 +3,7 @@ name: Process M3U
 on:
   workflow_dispatch:
   schedule:
-    - cron: "59 */23 * * *"   # 每6小时跑一次
+    - cron: "0 0 * * 0" 
 
 jobs:
   build:
