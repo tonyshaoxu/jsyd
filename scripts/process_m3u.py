@@ -2,7 +2,7 @@ import os
 import re
 from pathlib import Path
 
-ROOT = "."
+ROOT = "./source"
 OUT_DIR = "output"
 
 OTT_FILE = f"{OUT_DIR}/ott_mobaibox.m3u"
