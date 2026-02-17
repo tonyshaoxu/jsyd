@@ -1,0 +1,4 @@
+https://github.com/Kimentanm/aptv/blob/master/m3u/jsyd.m3u
+https://github.com/ldm168168/IPTV-2
+https://github.com/molu8072/IPTV
+https://github.com/0x1301FDF/iptv
