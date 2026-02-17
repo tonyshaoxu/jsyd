@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://ott.mobaibox.com/PLTV/3/224/3221228903/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-cctv1
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1 备线
+http://ott.mobaibox.com/PLTV/3/224/3221228889/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv1
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://ott.mobaibox.com/PLTV/3/224/3221228886/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-cctv2
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2 备线
+http://ott.mobaibox.com/PLTV/3/224/3221228906/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv2
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://ott.mobaibox.com/PLTV/3/224/3221228909/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv3
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://ott.mobaibox.com/PLTV/3/224/3221228892/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv4
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://ott.mobaibox.com/PLTV/3/224/3221228965/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv5
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://ott.mobaibox.com/PLTV/3/224/3221228898/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv6
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://ott.mobaibox.com/PLTV/3/224/3221228901/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv7
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://ott.mobaibox.com/PLTV/3/224/3221228968/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9 纪录
+http://ott.mobaibox.com/PLTV/3/224/3221228912/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv9
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://ott.mobaibox.com/PLTV/3/224/3221228915/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv10
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11 戏曲
+http://ott.mobaibox.com/PLTV/3/224/3221228918/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv11
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV12 社会与法
+http://ott.mobaibox.com/PLTV/3/224/3221228904/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv12
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13 新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228921/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv13
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14 少儿
+http://ott.mobaibox.com/PLTV/3/224/3221228907/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv14
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15 音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228910/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv15
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV16 奥林匹克
+http://ott.mobaibox.com/PLTV/3/224/3221228974/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv16
+#EXTINF:-1 tvg-name="CCTV16 4K" group-title="央视频道",CCTV16 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228959/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-cctv16-4K
+#EXTINF:-1 tvg-name="CCTV16 4K" group-title="央视频道",CCTV16 4K 备线
+http://ott.mobaibox.com/PLTV/3/224/3221228924/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv16-4K
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
+http://ott.mobaibox.com/PLTV/3/224/3221228977/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cctv17
+#EXTINF:-1 tvg-name="央视高尔夫·网球" group-title="央视频道",央视高尔夫·网球
+http://ott.mobaibox.com/PLTV/3/224/3221229031/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-golf
+#EXTINF:-1 tvg-name="央视教育" group-title="央视频道",央视教育
+http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiaoyutv
+#EXTINF:-1 tvg-name="CGTN" group-title="央视频道",CGTN
+http://ott.mobaibox.com/PLTV/3/224/3221228978/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-cgtn
+
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229019/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-anhuistv
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
+http://ott.mobaibox.com/PLTV/3/224/3221228928/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-kakukaton
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228922/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-beijingstv
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228972/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-dongnanstv
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228961/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-gansustv
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228937/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-guangdongstv
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229028/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-guangxistv
+#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视频道",旅游卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228946/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-lvyoustv
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228975/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-hebeistv
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228945/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-henanstv
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228940/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-heilongjiangstv
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229013/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-hubeistv
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
+http://ott.mobaibox.com/PLTV/3/224/3221229001/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jinyingkaton
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228942/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-hunanstv
+#EXTINF:-1 tvg-name="湖南卫视 4K" group-title="卫视频道",湖南卫视 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228939/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JS-SMS-gdhunanstv-4K
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228969/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jilinstv
+#EXTINF:-1 tvg-name="江苏城市" group-title="江苏本地",江苏城市
+http://ott.mobaibox.com/PLTV/3/224/3221228964/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiangsucs
+#EXTINF:-1 tvg-name="江苏教育" group-title="江苏本地",江苏教育
+http://ott.mobaibox.com/PLTV/3/224/3221229034/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiangsujy
+#EXTINF:-1 tvg-name="江苏体育" group-title="江苏本地",江苏体育
+http://ott.mobaibox.com/PLTV/3/224/3221228967/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiangsuty
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228919/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiangsustv
+#EXTINF:-1 tvg-name="江苏公共" group-title="江苏本地",江苏公共
+http://ott.mobaibox.com/PLTV/3/224/3221228981/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiangsugg
+#EXTINF:-1 tvg-name="江苏综艺" group-title="江苏本地",江苏综艺
+http://ott.mobaibox.com/PLTV/3/224/3221228970/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiangsuzy
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229022/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-jiangxistv
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228951/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-liaoningstv
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229010/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-neimenggustv
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228958/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-ningxiastv
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228955/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-qinghaistv
+#EXTINF:-1 tvg-name="山东教育" group-title="教育频道",山东教育
+http://ott.mobaibox.com/PLTV/3/224/3221228998/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-shandongjy
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228995/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-shandongstv
+#EXTINF:-1 tvg-name="山东卫视 4K" group-title="卫视频道",山东卫视 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228933/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JS-SMS-gdshandongstv-4K
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228952/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-shanxi1stv
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228992/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-dongfangstv
+#EXTINF:-1 tvg-name="东方卫视 4K" group-title="卫视频道",东方卫视 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228936/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JS-SMS-gddongfangstv-4K
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228943/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-shenzhenstv
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229025/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-sichuanstv
+#EXTINF:-1 tvg-name="四川卫视 4K" group-title="卫视频道",四川卫视 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228986/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JS-SMS-gdsichuanstv-4K
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229007/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-xizangstv
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228925/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-bingtuanstv
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228934/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-xinjiangstv
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228966/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-yunnanstv
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228989/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-zhejiangstv
+#EXTINF:-1 tvg-name="浙江卫视 4K" group-title="卫视频道",浙江卫视 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228916/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JS-SMS-gdzhejiangstv-4K
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229016/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-SMS-chongqingstv
+
+#EXTINF:-1 tvg-name="江阴新闻" group-title="江苏本地",江阴新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228980/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-jiangyinxinwen
+#EXTINF:-1 tvg-name="江阴民生" group-title="江苏本地",江阴民生
+http://ott.mobaibox.com/PLTV/3/224/3221228983/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-jiangyinminsheng
+#EXTINF:-1 tvg-name="江阴经济" group-title="江苏本地",江阴经济
+http://ott.mobaibox.com/PLTV/3/224/3221228930/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-jiangyinjingji
+#EXTINF:-1 tvg-name="江阴电视剧" group-title="江苏本地",江阴电视剧
+http://ott.mobaibox.com/PLTV/3/224/3221228913/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-jiangyindianshiju
+#EXTINF:-1 tvg-name="沭阳综合" group-title="江苏本地",沭阳综合
+http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-shuyangzonghe
+#EXTINF:-1 tvg-name="金坛新闻" group-title="江苏本地",金坛新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228846/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-jintanxinwen
+#EXTINF:-1 tvg-name="无锡新闻" group-title="江苏本地",无锡新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228853/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-wuxixinwen
+#EXTINF:-1 tvg-name="无锡都市" group-title="江苏本地",无锡都市
+http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-wuxidushi
+#EXTINF:-1 tvg-name="昆山新闻" group-title="江苏本地",昆山新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228820/index.m3u8?servicetype=1&unionUrl=cntv/live1/-/JSGD-GW-SMS-kunshanxinwen
+
+#EXTINF:-1 tvg-name="BRTV纪实科教" group-title="纪实频道",BRTV纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221228960/1.m3u8
